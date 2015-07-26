@@ -1,6 +1,6 @@
 <?
 
-		require($_SERVER['DOCUMENT_ROOT']."/php1_hmwk/lesson12/template_top.inc");
+		require($_SERVER['DOCUMENT_ROOT']."/php1_hmwk/lesson13/template_top.inc");
 
 
 ?>
@@ -101,6 +101,6 @@ if (preg_match("/^(\d+)\./", $address, $matches)) {
 
 <?
 		
-		require($_SERVER['DOCUMENT_ROOT']."/php1_hmwk/lesson12/template_bottom.inc");
+		require($_SERVER['DOCUMENT_ROOT']."/php1_hmwk/lesson13/template_bottom.inc");
 
 ?>
